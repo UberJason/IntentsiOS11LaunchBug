@@ -38,5 +38,9 @@
 		<key>NSExtensionPrincipalClass</key>
 		<string>$(PRODUCT_MODULE_NAME).IntentHandler</string>
 	</dict>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>DoSomethingIntent</string>
+	</array>
 </dict>
 </plist>

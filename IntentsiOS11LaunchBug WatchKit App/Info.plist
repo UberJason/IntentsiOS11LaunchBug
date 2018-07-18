@@ -29,5 +29,23 @@
 	<string>com.JYJApps.IntentsiOS11LaunchBug</string>
 	<key>WKWatchKitApp</key>
 	<true/>
+	<key>NSUserActivityTypes</key>
+	<array>
+		<string>DoSomethingIntent</string>
+	</array>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict>
+			<key>IntentsRestrictedWhileLocked</key>
+			<array/>
+			<key>IntentsRestrictedWhileProtectedDataUnavailable</key>
+			<array/>
+			<key>IntentsSupported</key>
+			<array>
+				<string>DoSomethingIntent</string>
+			</array>
+		</dict>
+	</dict>
 </dict>
 </plist>

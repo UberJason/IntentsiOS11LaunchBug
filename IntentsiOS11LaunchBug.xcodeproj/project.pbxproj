@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		965DEA7F20FFBBAD00E9D998 /* Intents.intentdefinition in Resources */ = {isa = PBXBuildFile; fileRef = 96B3DC5220F4417200319BF4 /* Intents.intentdefinition */; };
 		96B3DBD520F440F200319BF4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B3DBD420F440F200319BF4 /* AppDelegate.swift */; };
 		96B3DBD720F440F200319BF4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96B3DBD620F440F200319BF4 /* ViewController.swift */; };
 		96B3DBDA20F440F200319BF4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 96B3DBD820F440F200319BF4 /* Main.storyboard */; };
@@ -480,6 +481,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				965DEA7F20FFBBAD00E9D998 /* Intents.intentdefinition in Resources */,
 				96B3DBEC20F440F400319BF4 /* Assets.xcassets in Resources */,
 				96B3DBEA20F440F400319BF4 /* Interface.storyboard in Resources */,
 			);
